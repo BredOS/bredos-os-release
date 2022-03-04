@@ -2,7 +2,7 @@
 
 pkgname=bred-os-release
 fname=os-release
-pkgver=1.0
+pkgver=20220304
 pkgrel=1
 pkgdesc="BredOS os-release file info"
 arch=('any')
